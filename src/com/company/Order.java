@@ -5,11 +5,12 @@ package com.company;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 public class Order {
     private static int orderID=1;
 
-    private ArrayList<Dish> orderForTable;
+    private List<Dish> orderForTable;
     private int orderNumber;
     public Order(){
         orderForTable = new ArrayList<Dish>();
