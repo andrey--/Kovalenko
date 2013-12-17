@@ -35,7 +35,7 @@ public class Order {
         }
         System.out.println("### Total: $"+totalPrice);
     }
-
+//
     public void printOrder(StringBuilder output){
         float totalPrice=0;
         output.append("###Order -  "+orderNumber+" ###");
