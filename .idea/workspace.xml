@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5441fb1a-ed02-4ef8-a552-f9d121ae7de1" name="Default" comment="">
+    <list default="true" id="5441fb1a-ed02-4ef8-a552-f9d121ae7de1" name="Default" comment="Test&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Order.java" afterPath="$PROJECT_DIR$/src/com/company/Order.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kovalenko.iws" />
@@ -105,7 +106,7 @@
       <file leaf-file-name="Order.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.21683674" vertical-offset="0" max-vertical-offset="1428">
+            <state line="11" column="2" selection-start="187" selection-end="187" vertical-scroll-proportion="0.3469388" vertical-offset="0" max-vertical-offset="1428">
               <folding />
             </state>
           </provider>
@@ -419,7 +420,11 @@
       <created>1387313672380</created>
       <updated>1387313672380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test&#10;">
+      <created>1387313767042</created>
+      <updated>1387313767042</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -465,7 +470,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Test&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -827,7 +833,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.21683674" vertical-offset="0" max-vertical-offset="1428">
+        <state line="11" column="2" selection-start="187" selection-end="187" vertical-scroll-proportion="0.3469388" vertical-offset="0" max-vertical-offset="1428">
           <folding />
         </state>
       </provider>
